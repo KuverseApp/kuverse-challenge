@@ -1,4 +1,4 @@
-# Kuverse Marketplace
+# Kuverse Coding Challenge
 
 ## Install server dependencies
 
